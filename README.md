@@ -1,0 +1,1 @@
+Continuás trabajando sobre el archivo Pipeline_ETL_Apellido_Nombre.pbix del entregable anterior. Ese archivo ya tiene las tablas limpias y con nomenclatura profesional. En este checkpoint lo vas a transformar en un modelo de datos funcional con relaciones, calendario y medidas DAX.
